@@ -1,0 +1,13 @@
+ vou listar 4 que eu gosto
+
+1) Auto Rename Tag
+ essa extensao facilita bastante quando se precisa mudar a TAG, pois ele altera dentro da abertura e do fechamento sincronizado
+
+2)Code Autocomplete
+basicamente enquanto eu digito ele vai mostrando opcao de codigo, facilita bastante pq ajuda a digitar menos codigo pq ele ja sugere corretamente em alguns casos
+
+3)Bracket Pair Colorizer
+ atribua uma coloração que difere variaveis de funçoes etc..
+
+4)Prettier - Code formatter
+ para formatar o código, otima para quem está começando pois ajuda a facilitar a leitura do cógido
