@@ -1,4 +1,4 @@
-function imprimir(){
-    console.log("Conexao feita com sucesso")
-}
+
+
+let imprimir = () => console.log("Conexao Feita")
 imprimir()
